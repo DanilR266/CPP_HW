@@ -1,4 +1,0 @@
-/Users/danilr26/Desktop/HSE/cpp_hw_2/build/CMakeFiles/runTests.dir
-/Users/danilr26/Desktop/HSE/cpp_hw_2/build/CMakeFiles/runBenchmarks.dir
-/Users/danilr26/Desktop/HSE/cpp_hw_2/build/CMakeFiles/edit_cache.dir
-/Users/danilr26/Desktop/HSE/cpp_hw_2/build/CMakeFiles/rebuild_cache.dir

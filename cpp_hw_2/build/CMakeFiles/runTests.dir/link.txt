@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/runTests.dir/test_cpp_hw_2.cpp.o -o runTests  -lpthread /opt/homebrew/lib/libgtest_main.a /opt/homebrew/lib/libgtest.a

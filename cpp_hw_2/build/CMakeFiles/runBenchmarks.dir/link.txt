@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/runBenchmarks.dir/benchmark_cpp_hw_2.cpp.o -o runBenchmarks  /opt/homebrew/lib/libbenchmark.a -lpthread
